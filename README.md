@@ -1,5 +1,6 @@
-## Hi there 👋
+## Leo Walton 👋
 
+ I'm a NZ developer with ties to The Netherlands. 
 <!--
 **NervousBird/NervousBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
