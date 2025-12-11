@@ -1,6 +1,6 @@
 ## Leo Walton 👋
 
- I'm a NZ developer with ties to The Netherlands. Before getting into coding I was working a simple job at DHL, while learning Dutch, getting married, and doing general life things. Before even that, I was a freelance artist, doing illustration for private clients, and briefly working on a student magazine. 
+ I'm a NZ developer with ties to The Netherlands. Before getting into coding I was working a simple job at DHL, while learning Dutch, getting married, and doing general life things. Before even that, I was a freelance artist, doing illustration for private clients, and briefly working on a student magazine. I love making things, anything creative, and am extremely interested in ethical technologies, and making technology that actually helps society. (So not generative AI, pick up a pencil)
 
 ### Technologies
 
