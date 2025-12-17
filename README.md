@@ -7,6 +7,32 @@
 Check out my art, webdesigns, and other things on my website here:
  (to be added)
 
+## Current Projects
+
+### Personal Portfolio
+
+Creating a website to host my art, websites, and anything I want. This is a passion project, and something I want to just build and design for my own benefit, therefor - it's a bit wacky.
+
+https://nervousbirdart.netlify.app/
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Finance Tracking App
+
+An app to track your finances, focusing on user customisation and simplicity.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Music Machine
+
+Just a fun little music machine using ToneJs. Create, save, and load musics!
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ## Technologies
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
